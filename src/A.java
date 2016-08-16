@@ -7,6 +7,9 @@ public class A {
 	}
 
 	public void setA(int a) {
+		
+		
+		
 		this.a = a;
 	}
 	////8.15.11
